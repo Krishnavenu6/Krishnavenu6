@@ -13,6 +13,10 @@
  🔭 Learning MERN Stack: Currently diving deep into MongoDB, Express.js, React.js, and Node.js to build full-stack applications.</br>
 
  ⚡ Fun Fact:Code is Poetry: I see coding as a form of art, where every line can create a beautiful masterpiece or sometimes a funny mess!.
+
+ 👨‍💻 All of my projects are available at https://github.com/Krishnavenu6
+
+ 📫 How to reach me +91-6300751984
  
 
  </div>
